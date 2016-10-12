@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+body {
+  font-family: 'Raleway', sans-serif; }
+
+.buttonbar {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 5rem; }
+  .buttonbar .button {
+    text-transform: uppercase;
+    display: block; }
+
+.output {
+  margin: 0 auto;
+  width: 25%;
+  height: 25%;
+  font-size: 1em;
+  padding: .25rem; }
+
+.v1 {
+  background-color: red; }
+
+.v2 {
+  background-color: green;
+  opacity: 0; }
